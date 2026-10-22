@@ -1,0 +1,16 @@
+from_period,from_year,to_year,from_index_avg,to_index_avg,factor,index_series,source_file,source_column,usage_notes
+2005-2009,2009,2024,314.7,462.51116666666667,1.4696891219150514,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2009-dollar ACS estimates by this factor to express them in 2024 dollars.
+2006-2010,2010,2024,319.8,462.51116666666667,1.4462513028976443,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2010-dollar ACS estimates by this factor to express them in 2024 dollars.
+2007-2011,2011,2024,330,462.51116666666667,1.40154898989899,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2011-dollar ACS estimates by this factor to express them in 2024 dollars.
+2008-2012,2012,2024,336.9,462.51116666666667,1.372844068467399,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2012-dollar ACS estimates by this factor to express them in 2024 dollars.
+2009-2013,2013,2024,342,462.51116666666667,1.3523718323586744,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2013-dollar ACS estimates by this factor to express them in 2024 dollars.
+2010-2014,2014,2024,347.7,462.51116666666667,1.3302018023200077,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2014-dollar ACS estimates by this factor to express them in 2024 dollars.
+2011-2015,2015,2024,348.3,462.51116666666667,1.3279103263470189,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2015-dollar ACS estimates by this factor to express them in 2024 dollars.
+2012-2016,2016,2024,352.8,462.51116666666667,1.3109726946334088,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2016-dollar ACS estimates by this factor to express them in 2024 dollars.
+2013-2017,2017,2024,360.3,462.51116666666667,1.2836835044870016,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2017-dollar ACS estimates by this factor to express them in 2024 dollars.
+2014-2018,2018,2024,369.1,462.51116666666667,1.2530782082543122,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2018-dollar ACS estimates by this factor to express them in 2024 dollars.
+2015-2019,2019,2024,375.81333333333333,462.51116666666667,1.2306938728446746,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2019-dollar ACS estimates by this factor to express them in 2024 dollars.
+2016-2020,2020,2024,380.75541666666663,462.51116666666667,1.2147198606279404,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2020-dollar ACS estimates by this factor to express them in 2024 dollars.
+2017-2021,2021,2024,399.1725833333334,462.51116666666667,1.1586746835276551,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2021-dollar ACS estimates by this factor to express them in 2024 dollars.
+2018-2022,2022,2024,431.45966666666664,462.51116666666667,1.0719684883639182,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2022-dollar ACS estimates by this factor to express them in 2024 dollars.
+2019-2023,2023,2024,449.26475,462.51116666666667,1.0294846561335307,R-CPI-U-RS annual average,r-cpi-u-rs-allitems-1977-2025.xlsx,AVG,Multiply 2023-dollar ACS estimates by this factor to express them in 2024 dollars.

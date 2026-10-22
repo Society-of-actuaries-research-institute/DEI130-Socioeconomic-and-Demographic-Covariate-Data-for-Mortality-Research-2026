@@ -1,0 +1,2 @@
+update_date,release_year,previous_period,new_period,review_script,review_output,decision_notes
+2026-04-05,2024,2022-2023,2022-2024,check_latest_acs_release_mapping.R,acs_var_mapping_latest_release_review.csv,Extended after review; 10 flagged variables reflected inflation-adjustment year wording changes only
